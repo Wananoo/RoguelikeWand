@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - CamObstacleWall
+  - Rune
+  - Rune3D
+  - MainWand
+  - Treeable
+  - EventEmpty
+  - SpawnManager
+  - CadenceText
+  - PrecisionText
+  - PotencyText
+  - HWX Prefab
+  - HWY Prefab
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - DungLoose
+  - Angles
+  - Stencil
+  - Hittable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Angles
+    uniqueID: 2807999985
+    locked: 0
